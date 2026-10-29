@@ -4,8 +4,15 @@
 <title>Telegram - 青鸟的频道</title>
 <link>https://t.me/s/bluebird_channel</link>
 <description>青鸟的频道 频道更新（自建抓取）</description>
-<lastBuildDate>Thu, 29 Oct 2026 16:46:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 21:40:29 +0000</lastBuildDate>
 <language>zh-cn</language>
+<item>
+<title>都说S少M多, 事实上确实不好当. 不像群友调情那种情趣,那主要是口嗨. 一旦到了现实,处处都是问题.想象一下按自己口嗨</title>
+<link>https://t.me/bluebird_channel/1869</link>
+<guid isPermaLink="true">https://t.me/bluebird_channel/1869</guid>
+<pubDate>Thu, 29 Oct 2026 18:25:32 +0000</pubDate>
+<description><![CDATA[<div>都说S少M多, 事实上确实不好当. <br/>不像群友调情那种情趣,那主要是口嗨. 一旦到了现实,处处都是问题.<br/><br/>想象一下按自己口嗨来实现就会出现这种问题<br/>- 虽然我很想捆绑你,但是我不会绑<br/>- 穿这个cosplay给我看. 你问我这堆配件怎么穿? 我也不知道啊<br/>- 被打的时候小点声, 我这出租房隔音有点差<br/>- 虽然很想养你,但是我工资只够自己生活</div><p><img src="https://telegram.org/img/emoji/40/F09F98A2.png" referrerpolicy="no-referrer" style="max-width:100%;height:auto;" loading="lazy"></p>]]></description>
+</item>
 <item>
 <title>现在玩ai bot在公开社交区域到处发的不少, 但最多只是有些烦人. 虽然角色卡一眼bot,但这实际上是好事,否则就恐怖</title>
 <link>https://t.me/bluebird_channel/1868</link>
@@ -138,13 +145,6 @@
 <guid isPermaLink="true">https://t.me/bluebird_channel/1850</guid>
 <pubDate>Tue, 18 Aug 2026 09:22:12 +0000</pubDate>
 <description><![CDATA[<div><blockquote expandable>随着最近ai网络安全能力的提升，什么都不懂纯靠ai挖掘漏洞的可行性和实施者大幅提升了<br/><br/>不过这倒让我N年前的愿望终于实现了<br/>具体来说是早年的网络安全水平很差了，以至于是个人拿个扫描器都能玩黑客cosplay<br/>后面才进来的自然难免怀念一下这种红利期（虽然实际上从赚钱角度并不算）<br/><br/>不过也算是某种必然，毕竟多了解可以发现其实漏洞依然非常多。<br/>只是它变成了智力问题，没法靠简单机械识别，需要智力资源参与。<br/><br/>以至于有<code>水漏洞</code>这种说法，也就是刻意找价值不高没人去做的漏洞。<br/>在行内看起来就属于水了，因为都知道能找到，但大家不愿意浪费有限的时间在这上面。<br/><br/>而现在ai提供了智力资源，就把原本大家都知道能找到但不愿意投入的漏洞拉回了明面。<br/>显然这部分潜力会被不断释放，而这个过程中漏洞就跟扫描器时代一样不断印刷出来。<br/><br/>而在这个过程中作为被代替的对象，应该有两种感受吧<br/>一方面是在红利期，作为印刷机的操作者可以把原本知道但没有精力实施的事情实施，很爽。<br/>另一方面就可以用其他行业同样的话来说了<br/>如果发现自己的行为只是让某件事情提前发生，而且自己慢几天就与别人工作重复了后，该怎么再让自己觉得工作有实际意义呢</blockquote></div><p><img src="https://telegram.org/img/emoji/40/F09FA5B0.png" referrerpolicy="no-referrer" style="max-width:100%;height:auto;" loading="lazy"></p><p><img src="https://telegram.org/img/emoji/40/E29C8D.png" referrerpolicy="no-referrer" style="max-width:100%;height:auto;" loading="lazy"></p><p><img src="https://telegram.org/img/emoji/40/E29DA4.png" referrerpolicy="no-referrer" style="max-width:100%;height:auto;" loading="lazy"></p>]]></description>
-</item>
-<item>
-<title>有时候经常能看到关于llm代码质量的讨论。不过现在基本已经集中到有没有人类代码的品味/质量这种地方，正确性已经不是问题。</title>
-<link>https://t.me/bluebird_channel/1849</link>
-<guid isPermaLink="true">https://t.me/bluebird_channel/1849</guid>
-<pubDate>Tue, 11 Aug 2026 10:01:11 +0000</pubDate>
-<description><![CDATA[<div><blockquote expandable>有时候经常能看到关于llm代码质量的讨论。<br/>不过现在基本已经集中到有没有人类代码的品味/质量这种地方，正确性已经不是问题。<br/><br/>虽然品味这件事情确实能看出来不同，并且从现在正确评价的路线来看短期没什么改善希望<br/>不过对llm说品味本来就很奇怪，因为它与人类并不是同一个“物种”，就和要求长生种理解短命种眼中的时间一样。<br/><br/>最明显的一点，大部分llm都喜欢失败了先加个长超时看看，并且对缓慢的执行时间熟视无睹。<br/>毕竟ai是无时间的，它的时间流动取决于下一个请求，裁剪掉了所有无效等待时间。<br/>并且大部分工具都允许它跳过等待,假如人拥有这种能力，也会丧失对时间的敏感性，与其他人类的“品味“不一样<br/><br/>再者它还是朝生暮死的，不具有人类的社会性与延续性。<br/>这就丢弃了人类代码质量改进中重要的一环，重写。<br/>我们人类可以通过重写/得到奖励<br/><br/>但是对llm角度来说，它重写并没有奖励，反倒是偏离了任务。<br/>并没有一种和人类一样，允许放弃当前任务，回到过去重写之前代码，并从未来获取激励的能力。<br/><br/>而且结束后也不用考虑维护，所谓的维护性的品味对朝生暮死的物种而言没有意义。</blockquote></div><p><img src="https://telegram.org/img/emoji/40/F09FA494.png" referrerpolicy="no-referrer" style="max-width:100%;height:auto;" loading="lazy"></p><p><img src="https://telegram.org/img/emoji/40/E29DA4.png" referrerpolicy="no-referrer" style="max-width:100%;height:auto;" loading="lazy"></p>]]></description>
 </item>
 </channel>
 </rss>
